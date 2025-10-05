@@ -78,7 +78,7 @@ This project involves scraping anime-related data from the web, cleaning and ana
 ## 📫 Author
 
 **Sai Vamshi Burugu**  
-🎓 Aspiring Machine Learning & Data Analyst  
+🎓 Aspiring Data Scientist
 🔗 [LinkedIn](https://www.linkedin.com/in/saivamshiburugu/)  
 💻 [GitHub](https://github.com/SaiVamshiBurugu)
 
